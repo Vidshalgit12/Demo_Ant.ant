@@ -1,0 +1,11 @@
+<?xml version=&quot;1.0&quot;?>
+
+<project name=&quot;Hello World Project&quot; default=&quot;info&quot;>
+
+<target name=&quot;info&quot;>
+
+<echo> Hello World - Welcome to Simplilearn</echo>
+
+</target>
+
+</project>
